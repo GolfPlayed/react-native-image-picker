@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b40a63f0-a729-4706-8d9f-e2901628ad4f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/FileProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/ImagePickerModule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/ImagePickerPackage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/ResponseHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/media/ImageConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/media/VideoConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/permissions/OnImagePickerPermissionsCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/permissions/PermissionUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/permissions/PermissionsHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/utils/ButtonsHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/utils/MediaUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/utils/ReadableMapUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/utils/RealPathUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/java/com/imagepicker/utils/UI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/res/layout/list_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/res/values/themes.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/main/res/xml/provider_paths.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/test/java/com/imagepicker/testing/ImagePickerModuleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/test/java/com/imagepicker/testing/SampleCallback.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/test/java/com/imagepicker/testing/TestableImagePickerModule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/src/test/java/com/imagepicker/testing/media/ImageConfigTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js.flow" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/ImagePickerManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/ImagePickerManager.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/RNImagePicker.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-native-image-picker.podspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/ImagePickerManager.m" afterPath="$PROJECT_DIR$/ios/ImagePickerManager.m" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,8 +19,8 @@
       <file leaf-file-name="ImagePickerManager.m" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ios/ImagePickerManager.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="452" column="44" lean-forward="false" selection-start-line="452" selection-start-column="30" selection-end-line="452" selection-end-column="44" />
+            <state relative-caret-position="278">
+              <caret line="447" column="48" lean-forward="false" selection-start-line="447" selection-start-column="35" selection-end-line="447" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -66,8 +28,20 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>moveItemAtURL</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ios/ImagePickerManager.m" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -149,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571643620433</updated>
-      <workItem from="1571643621498" duration="68000" />
+      <workItem from="1571643621498" duration="120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68000" />
+    <option name="totallyTimeSpent" value="120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="926" extended-state="0" />
@@ -203,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ios/ImagePickerManager.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="452" column="44" lean-forward="false" selection-start-line="452" selection-start-column="30" selection-end-line="452" selection-end-column="44" />
+        <state relative-caret-position="278">
+          <caret line="447" column="48" lean-forward="false" selection-start-line="447" selection-start-column="35" selection-end-line="447" selection-end-column="48" />
           <folding />
         </state>
       </provider>
